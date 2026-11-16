@@ -38,7 +38,7 @@ Java Developer| JAVA | JDBC | MySQL
 ![View Student](StudentManagementSystem/03-view-students.png)
 
 ### Search Student
-![Search Student](04-search-student.png)
+![Search Student](StudentManagementSystem/04-search-student.png)
 
 ### Update Student
 ![Update Student](05-update-student.png)
