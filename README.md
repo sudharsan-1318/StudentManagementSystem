@@ -44,7 +44,7 @@ Java Developer| JAVA | JDBC | MySQL
 ![Update Student](StudentManagementSystem/05-update-student.png)
 
 ### Delete Student
-![Delete Student](06-delete-student.png)
+![Delete Student](StudentManagementSystem/06-delete-student.png)
 
 ### Exit
 ![Exit](07-exit.png)
