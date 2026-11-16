@@ -32,7 +32,7 @@ Java Developer| JAVA | JDBC | MySQL
 ![Main Menu](StudentManagementSystem/01-main-menu.png)
 
 ### Add Student
-![Add Student](02-add-student.png)
+![Add Student](StudentManagementSystem/02-add-student.png)
 
 ### View Student
 ![View Student](03-view-student.png)
