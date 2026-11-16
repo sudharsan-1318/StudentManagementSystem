@@ -29,7 +29,7 @@ Java Developer| JAVA | JDBC | MySQL
 ## Screenshots
 
 ### Main Menu
-![Main Menu](01-main-menu.png)
+![Main Menu](StudentManagementSystem/01-main-menu.png)
 
 ### Add Student
 ![Add Student](02-add-student.png)
