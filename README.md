@@ -47,5 +47,5 @@ Java Developer| JAVA | JDBC | MySQL
 ![Delete Student](StudentManagementSystem/06-delete-student.png)
 
 ### Exit
-![Exit](07-exit.png)
+![Exit](StudentManagementSystem/07-Exit.png)
 
