@@ -32,20 +32,20 @@ Java Developer| JAVA | JDBC | MySQL
 ![Main Menu](01-main-menu.png)
 
 ### Add Student
-![Add Student](Screenshots/02-add-student.png)
+![Add Student](02-add-student.png)
 
 ### View Student
-![View Student](Screenshots/03-view-student.png)
+![View Student](03-view-student.png)
 
 ### Search Student
-![Search Student](Screenshots/04-search-student.png)
+![Search Student](04-search-student.png)
 
 ### Update Student
-![Update Student](Screenshots/05-update-student.png)
+![Update Student](05-update-student.png)
 
 ### Delete Student
-![Delete Student](Screenshots/06-delete-student.png)
+![Delete Student](06-delete-student.png)
 
 ### Exit
-![Exit](Screenshots/07-exit.png)
+![Exit](07-exit.png)
 
